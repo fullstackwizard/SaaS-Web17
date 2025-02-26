@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUp4/z9gSAk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flavio\\Desktop\\Dev.io\\SaaS-Web17\\backend\\SaaSWeb17.API\\SaaSWeb17.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flavio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Flavio\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
